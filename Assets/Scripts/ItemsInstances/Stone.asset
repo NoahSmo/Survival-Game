@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Stone
   m_EditorClassIdentifier: 
   itemName: Stone
+  description: This is a single stone that you found on the ground
   visual: {fileID: 21300000, guid: f7111abcf951a1f4398426869d06640b, type: 3}
   prefab: {fileID: 5120713045510917756, guid: 161b235684450484e8a14afd2e4e424f, type: 3}
